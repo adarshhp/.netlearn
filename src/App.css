@@ -1,0 +1,17 @@
+
+.leo{
+  display:flex;
+  max-width: 100%;
+  width: 100%;
+  justify-content: space-between;
+}
+.events-tablee{
+  
+  display:flex;
+  max-width: 100%;
+  width: 100%;
+  justify-content: space-between;
+  height: 40px;
+  background: linear-gradient(135deg, rgb(238, 241, 240), rgb(228, 160, 160));
+
+}

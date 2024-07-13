@@ -1,0 +1,35 @@
+.whole{
+    background: linear-gradient(135deg, rgba(63, 185, 126, 1), rgba(202, 160, 228, 1));
+    display:block;
+    height: auto;
+    border:1px,solid,black;
+    table-layout: fixed;
+}
+
+.events-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Optional: Add margin for spacing */
+    table-layout: fixed;
+  }
+  
+  .events-table th, .events-table td {
+    border: 1px solid #ddd; /* Border color */
+    padding: 12px; /* Padding inside cells */
+    text-align: center; /* Center align text */
+  }
+  
+  .events-table th {
+   
+    font-weight: bold; /* Bold font for header */
+  }
+  
+  
+  
+  .events-table tbody tr:hover {
+    background-color: #e9ecef; /* Hover background color */
+  }
+  
+  .neymer{
+    border:1px,solid,black;
+  }
